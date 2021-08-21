@@ -1,0 +1,8 @@
+<FD056_OPL_8_metre_SRF_380mm.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/director/lods/FD056_OPL_8_metre_SRF_380mm_lod1	</parent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/director/FD056_OPL_8_metre_SRF_380mm	</nodefullVisual>
+	<extent>	3.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FD056_OPL_8_metre_SRF_380mm.model>

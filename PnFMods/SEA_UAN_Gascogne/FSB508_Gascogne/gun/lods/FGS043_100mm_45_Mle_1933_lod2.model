@@ -1,0 +1,9 @@
+<FGS043_100mm_45_Mle_1933_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/gun/lods/FGS043_100mm_45_Mle_1933_lod3	</parent>
+	<extent>	18.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/gun/lods/FGS043_100mm_45_Mle_1933_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FGS043_100mm_45_Mle_1933_lod2.model>

@@ -1,0 +1,14 @@
+<France_Disk_3Blade_02_alpha.mfm>
+	<fx>	shaders/std_effects/lightonly_alpha_flat.fx	</fx>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/aircraft/France_Disk_3Blade_02_alpha_a.dds	</Texture>
+	</property>
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<property>	doubleSided
+		<Bool>	true	</Bool>
+	</property>
+</France_Disk_3Blade_02_alpha.mfm>

@@ -1,0 +1,57 @@
+<FSB012_Gascoigne_1941_Affichage.mfm>
+	<fx>	shaders/std_effects/holographic.fx	</fx>
+	<property>	doubleSided
+		<Bool>	true	</Bool>
+	</property>
+	<property>	imageTexture
+		<Texture>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/ship/FSB012_Gascoigne_1941_Affichage_holo.dds	</Texture>
+	</property>
+	<property>	maskTexture
+		<Texture>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/ship/FSB012_Gascoigne_1941_Affichage_Mask.dds	</Texture>
+	</property>
+	<property>	shakeFactor
+		<Float>	0	</Float>
+	</property>
+	<property>	glowStrength
+		<Float>	8	</Float>
+	</property>
+	<property>	glitchLineWidth
+		<Float>	0.2	</Float>
+	</property>
+	<property>	glitchLinePeriod
+		<Float>	0	</Float>
+	</property>
+	<property>	glitchLineOffset
+		<Float>	0	</Float>
+	</property>
+	<property>	markColor
+		<Vector4>	0 0.5 0.6 1	</Vector4>
+	</property>
+	<property>	waveSpeedX
+		<Float>	0.02000	</Float>
+	</property>
+	<property>	waveScaleX
+		<Float>	1	</Float>			
+	</property>
+	<property>	waveSpeedY
+		<Float>	0.02000	</Float>		
+	</property>
+	<property>	glowColor
+		<Vector4>	0 0.66 1 1	</Vector4>
+	</property>
+	<property>	foilHSpeed
+		<Float>	0	</Float>			
+	</property>
+	<property>	foilScale
+		<Float>	8	</Float>
+	</property>
+	<property>	enableRadialOpacity
+		<Bool>	true	</Bool>
+	</property>
+	<property>	enableForegroundFoil
+		<Bool>	false	</Bool>
+	</property>
+	<property>	imgFoilColor
+		<Vector4>	0 0.66 1 1	</Vector4>
+	</property>
+</FSB012_Gascoigne_1941_Affichage.mfm>

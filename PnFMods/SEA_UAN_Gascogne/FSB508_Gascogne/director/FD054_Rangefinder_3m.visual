@@ -1,0 +1,38 @@
+<FD054_Rangefinder_3m.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Rangefinders_3m	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Rangefinders_3m	</node>
+		<geometry>
+			<vertices>	Rangefinders_3mShape.vertices	</vertices>
+			<primitive>	Rangefinders_3mShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Misc	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/director/FD054_Rangefinder_3m.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-0.119126 0.000000 -0.035043	</min>
+		<max>	0.119126 0.044293 0.035043	</max>
+	</boundingBox>
+</FD054_Rangefinder_3m.visual>

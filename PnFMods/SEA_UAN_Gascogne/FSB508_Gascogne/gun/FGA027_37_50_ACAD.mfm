@@ -1,0 +1,23 @@
+<FGA027_37_50_ACAD.mfm>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	emissivePower
+		<Float>	1.80000	</Float>
+	</property>
+	<property>	doubleSided
+		<Bool>	false	</Bool>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/gun/FGA027_37_50_ACAD_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/gun/FGA027_37_50_ACAD_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/gun/FGA027_37_50_ACAD_mg.dds	</Texture>
+	</property>
+</FGA027_37_50_ACAD.mfm>

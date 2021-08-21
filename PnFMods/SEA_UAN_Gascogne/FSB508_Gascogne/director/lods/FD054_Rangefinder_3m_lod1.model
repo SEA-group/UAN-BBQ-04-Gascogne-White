@@ -1,0 +1,8 @@
+<FD054_Rangefinder_3m_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/director/lods/FD054_Rangefinder_3m_lod2	</parent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/director/lods/FD054_Rangefinder_3m_lod1	</nodefullVisual>
+	<extent>	8.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FD054_Rangefinder_3m_lod1.model>

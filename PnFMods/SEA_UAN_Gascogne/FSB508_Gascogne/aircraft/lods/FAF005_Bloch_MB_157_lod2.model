@@ -1,0 +1,9 @@
+<FAF005_Bloch_MB_157_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/aircraft/lods/FAF005_Bloch_MB_157_lod3	</parent>
+	<extent>	40.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/aircraft/lods/FAF005_Bloch_MB_157_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FAF005_Bloch_MB_157_lod2.model>

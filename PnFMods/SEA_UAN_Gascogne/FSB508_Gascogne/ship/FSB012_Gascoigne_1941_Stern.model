@@ -1,0 +1,8 @@
+<FSB012_Gascoigne_1941_Stern.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/ship/lods/FSB012_Gascoigne_1941_Stern_lod1	</parent>
+	<extent>	11.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/ship/FSB012_Gascoigne_1941_Stern	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FSB012_Gascoigne_1941_Stern.model>

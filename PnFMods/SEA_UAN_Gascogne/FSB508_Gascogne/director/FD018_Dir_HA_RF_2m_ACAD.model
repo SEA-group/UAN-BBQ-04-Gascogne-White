@@ -1,0 +1,9 @@
+<FD018_Dir_HA_RF_2m_ACAD.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/director/lods/FD018_Dir_HA_RF_2m_ACAD_lod1	</parent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/director/FD018_Dir_HA_RF_2m_ACAD	</nodefullVisual>
+	<extent>	2.0000	</extent>
+	<materialNames />
+	<castsShadow>	false	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FD018_Dir_HA_RF_2m_ACAD.model>

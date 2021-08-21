@@ -1,0 +1,14 @@
+<FD021_Main_battery_dir_8m_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/director/FD021_Main_battery_dir_8m_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/director/FD021_Main_battery_dir_8m_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/director/FD021_Main_battery_dir_8m_mg.dds	</Texture>
+	</property>
+</FD021_Main_battery_dir_8m_wire.mfm>

@@ -1,0 +1,8 @@
+<FD019_Searchlight_control_positions_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/director/lods/FD019_Searchlight_control_positions_lod3	</parent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/director/lods/FD019_Searchlight_control_positions_lod2	</nodefullVisual>
+	<extent>	15	</extent>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FD019_Searchlight_control_positions_lod2.model>

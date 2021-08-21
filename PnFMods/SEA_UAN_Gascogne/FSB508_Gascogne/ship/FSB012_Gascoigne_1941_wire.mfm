@@ -1,0 +1,14 @@
+<FSB012_Gascoigne_1941_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/ship/FSB012_Gascoigne_1941_wire_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/ship/FSB012_Gascoigne_1941_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/ship/FSB012_Gascoigne_1941_mg.dds	</Texture>
+	</property>
+</FSB012_Gascoigne_1941_wire.mfm>

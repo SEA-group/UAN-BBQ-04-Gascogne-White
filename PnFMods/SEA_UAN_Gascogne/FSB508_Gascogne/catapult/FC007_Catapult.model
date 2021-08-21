@@ -1,0 +1,8 @@
+<FC007_Catapult.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/catapult/lods/FC007_Catapult_lod1	</parent>
+	<extent>	5.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/catapult/FC007_Catapult	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FC007_Catapult.model>

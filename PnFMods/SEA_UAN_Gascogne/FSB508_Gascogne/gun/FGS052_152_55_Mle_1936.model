@@ -1,0 +1,9 @@
+<FGS052_152_55_Mle_1936.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/gun/lods/FGS052_152_55_Mle_1936_lod1	</parent>
+	<extent>	2.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<materialNames />
+	<nodefullVisual>	PnFMods/SEA_UAN_Gascogne/FSB508_Gascogne/gun/FGS052_152_55_Mle_1936	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FGS052_152_55_Mle_1936.model>
